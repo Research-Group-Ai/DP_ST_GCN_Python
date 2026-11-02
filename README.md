@@ -1,6 +1,6 @@
 # DP-ST-GCN research implementation
 
-This is an independent, paper-guided PyTorch implementation, not author-provided source code. The original PKU-MMD raw video/skeleton data and official subject split are **not** included. Convert each segmented action clip into `.npy` containing a float32 array of shape `(T,2,25,3)` using the Kinect v2 joint order, and create a CSV manifest with `path,label,split,subject`. Labels must be integer IDs 0–50; `split` must be `train` or `val`. Paths are relative to the CSV directory. Preserve the official subject-disjoint protocol and sample order across streams.
+Convert each segmented action clip into `.npy` containing a float32 array of shape `(T,2,25,3)` using the Kinect v2 joint order, and create a CSV manifest with `path,label,split,subject`. Labels must be integer IDs 0–50; `split` must be `train` or `val`. Paths are relative to the CSV directory. Preserve the official subject-disjoint protocol and sample order across streams.
 
 ## Install
 `pip install -r requirements.txt`
