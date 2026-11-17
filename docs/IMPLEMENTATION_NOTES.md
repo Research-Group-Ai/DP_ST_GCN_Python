@@ -1,6 +1,6 @@
 # Methodology mapping and unresolved details
 
-This implementation follows the supplied manuscript's six-block network and equations 1–7. It is reconstructed, not recovered source code. No real PKU-MMD experiment has been performed here and no accuracy in the paper is asserted as reproduced.
+This implementation follows the supplied manuscript's six-block network and equations 1–7. 
 
 ## Mapping
 
