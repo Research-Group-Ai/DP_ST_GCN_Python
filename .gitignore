@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+data/*
+!data/README.md
+outputs/*
+!outputs/README.md
+configs/demo.json
+*.pt

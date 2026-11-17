@@ -1,0 +1,2 @@
+# Install appropriate PyTorch CPU/CUDA build first, then:
+-e .
