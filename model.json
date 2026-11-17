@@ -1,0 +1,16 @@
+{
+  "classes": 51,
+  "frames": 100,
+  "dropout": 0.5,
+  "cross_joints": [0, 1, 2, 4, 8, 5, 9, 6, 10],
+  "protocol_verified": false,
+  "synthetic_demo": false,
+  "seed": 20261117,
+  "epochs": 100,
+  "patience": 12,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0005,
+  "label_smoothing": 0.1,
+  "workers": 0
+}
