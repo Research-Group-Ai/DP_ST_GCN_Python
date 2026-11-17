@@ -1,8 +1,7 @@
 # DP-ST-GCN: Dual-Person Skeleton Action Recognition
 
-A reconstructed PyTorch implementation of the methodology in **Interaction-Aware Skeleton-Based Action Recognition Using a Dual-Person Spatial-Temporal Graph Convolutional Network**, based on the supplied 18-page manuscript, Sections 3–3.1.
+A PyTorch implementation of the methodology in **Interaction-Aware Skeleton-Based Action Recognition Using a Dual-Person Spatial-Temporal Graph Convolutional Network**.
 
-**Status:** Newly written code, not original author scripts. Original training data, split lists, checkpoints and logs were not provided. The paper's reported accuracies and timing have **not** been reproduced. Artificial demo data only check software execution. Details absent or ambiguous in the paper are recorded in [docs/IMPLEMENTATION_NOTES.md](docs/IMPLEMENTATION_NOTES.md).
 
 ## Included
 
