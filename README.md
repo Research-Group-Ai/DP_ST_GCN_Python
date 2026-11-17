@@ -1,0 +1,1 @@
+Local checkpoints, predictions and generated metrics go here. No published result has been reproduced. Do not upload real participant-level predictions or dataset files automatically; select reviewed aggregate outputs separately.
