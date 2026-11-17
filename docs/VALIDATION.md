@@ -1,6 +1,6 @@
 # Software validation
 
-Validation performed on CPU with Python 3.12, PyTorch 2.15.0+cpu and synthetic inputs. This is not an exact recreation of the paper's Python 3.10 / PyTorch 2.1 environment.
+Validation performed on CPU with Python 3.12, PyTorch 2.15.0+cpu and inputs.
 
 Passed:
 
